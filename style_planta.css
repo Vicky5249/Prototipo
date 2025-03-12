@@ -34,8 +34,8 @@
 
  /* Estilos del div */
  .remedios {
-    background: rgb(173, 255, 173);
-    color: rgb(64, 127, 64);
+    background:rgb(64, 127, 64);
+    color: rgb(173, 255, 173);
     padding: 15px;
     text-align: center;
     font-size: 14px;
@@ -64,8 +64,8 @@ br{
     display: inline-block; 
     padding: 10px 20px;
     font-size: 1em; 
-    color: rgb(64, 127, 64);
-    background-color: rgb(135, 255, 135); 
+    background:rgb(64, 127, 64);
+    color: rgb(173, 255, 173);
     text-align: center; 
     text-decoration: none; 
     border-radius: 5px; 
@@ -206,8 +206,8 @@ br{
         }
         
         .right-panel {
-            background-color: rgb(64, 127, 64);
-            color: rgb(173, 255, 173);
+            background-color:  rgb(173, 255, 173);
+            color:rgb(64, 127, 64);
             flex: 1;
             display: flex;
             flex-direction: column;
@@ -221,7 +221,7 @@ br{
             font-size: 2.5rem;
             font-weight: bold;
             text-align: center;
-            color: rgb(173, 255, 173); /* Verde vibrante */
+            color: rgb(64, 127, 64);
             text-transform: uppercase;
             letter-spacing: 2px;
             padding: 20px;
@@ -287,8 +287,8 @@ br{
             max-width: 300px;
             border: none;
             border-radius: 8px;
-            background: rgb(173, 255, 173);
-            color: rgb(64, 127, 64);
+            color:  rgb(173, 255, 173);
+            background-color:rgb(64, 127, 64);
             transition: transform 0.2s ease, box-shadow 0.3s ease;
             animation: fadeIn 3s ease forwards;
             animation-delay: 2s;

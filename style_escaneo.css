@@ -1,4 +1,4 @@
-        body {
+               body {
             display: flex;
             flex-direction: row;
             align-items: stretch;
@@ -11,7 +11,7 @@
         }
 
         .left-panel {
-            background-image: url("https://img.freepik.com/fotos-premium/hojas-plantas-verdes-jardin-primavera-fondo-verde_73485-5496.jpg");
+            background-image: url("https://oem.com.mx/elsoldetoluca/img/14606806/1675487062/BASE_LANDSCAPE/1200/hierbas-medicinales-y-plantas-gourmet-variados-tipos-D_NQ_NP_677418-MLC26752807931_022018-F.webp");
             flex: 0.3;
             display: flex;
             align-items: center;
@@ -21,8 +21,8 @@
         }
 
         .right-panel {
-            background-color: #0d0e10;
-            color: rgb(173, 255, 173);
+            background-color:rgb(173, 255, 173);
+            color:rgb(64, 127, 64);
             flex: 1;
             display: flex;
             flex-direction: column;
@@ -35,12 +35,12 @@
             font-size: 3rem;
             text-align: center;
             font-weight: 900;
-            color:rgb(173, 255, 173);
+            color:rgb(64, 127, 64)6;
         }
 
         h5 {
             text-align: left;
-            color: rgb(173, 255, 173);
+            color: rgb(64, 127, 64);
                         animation: fadeInLeft 2s ease-in-out;
         }
 

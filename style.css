@@ -11,7 +11,7 @@ body, html {
 }
 
 .hero {
-    background-image: url('https://www.gob.mx/cms/uploads/image/file/558565/arnica-468434_1920.jpg'); /* Coloca aquí tu imagen de fondo */
+    background-image: url("https://oem.com.mx/elsoldetoluca/img/14606806/1675487062/BASE_LANDSCAPE/1200/hierbas-medicinales-y-plantas-gourmet-variados-tipos-D_NQ_NP_677418-MLC26752807931_022018-F.webp");
     background-size: cover;
     background-position: center;
     height: 100vh; /* Ocupa el 100% de la altura de la pantalla */
